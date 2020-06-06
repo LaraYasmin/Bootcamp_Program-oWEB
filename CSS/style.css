@@ -1,0 +1,19 @@
+body {
+    background: pink; /*escolhe a cor de fundo*/
+}
+
+h1 {
+    color:purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*escolhe a fonte*/
+    margin-left: 120px; /*Aqui coloca a margem, seja de palavras ou imagens*/
+}
+
+h2 { /*as chaves são para iniciar e fechar um comando*/ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} /*é só escolher que parte do site você quer mudar, e chamar aqui seguido de chaves*/
+
+
+.img_padrao {
+    margin-left: 30px; /*Aqui, eu defino um tamanho para uma imagem específica*/
+}
